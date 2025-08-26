@@ -11,11 +11,11 @@ Tails Adventure (テイルスアドベンチャー) is a mini-Metroidvania starr
 
 To drive the invading Battle Kukku Empire from Cocoa Island by infiltrating their Battle Fortress and defeating Dr Fukurokov, Battle Kukku 16th (a.k.a. Speedy), and ultimately Great Battle Kukku 15th, the leader of the Battle Kukku Army.
 
-## What does randomization do to this game?
+## What does randomisation do to this game?
 
-The locations of the thirty items collected across Cocoa Island are randomized.
+The locations of the thirty items collected across Cocoa Island are randomised.
 
-Two items are not randomized as they are always given to the player when starting a new game: the Regular Bomb and the Vulcan Gun.
+Two items are not randomised as they are always given to the player when starting a new game: the Regular Bomb and the Vulcan Gun.
 
 ## What are location checks?
 

@@ -16,9 +16,9 @@ title: Setup Guide
 
 After installing BizHawk, open EmuHawk and change the following settings:
 
-1. Go to Config > Customize, and enable "Run in background"
+1. Go to Config > Customise, and enable "Run in background"
   - This will prevent disconnecting from the client while running in the background
-1. **Version 2.8 or earlier:** Go to Config > Customize, then the Advaned tab, switch the Lua Core from `NLua+KopiLua` to `Lua+LuaInterface`, then restart EmuHawk
+1. **Version 2.8 or earlier:** Go to Config > Customise, then the Advaned tab, switch the Lua Core from `NLua+KopiLua` to `Lua+LuaInterface`, then restart EmuHawk
   - **Note:** Even if `Lua+LuaInterface` is already selected, change the option to something else then back again to ensure the correct Lua Core is loaded
 
 On Windows, it's strongly recommended to associate Game Gear ROMs (*.gg) with EmuHawk:
